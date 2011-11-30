@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODDR>
+    <version>
+        <ver>1.0</ver>
+        <last_updated>2011-10-10 11:21:24</last_updated>
+        <official_url>www.openddr.org</official_url>
+        <maintainers>
+        </maintainers>
+        <authors>
+        </authors>
+        <statement>
+		     <![CDATA[ 
+				Copyright 2011 OpenDDR LLC
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+		]]>
+        </statement>
+    </version>
+    <Builders>
+        <builder class="org.openddr.simpleapi.oddr.builder.device.TwoStepDeviceBuilder">
+            <device id="Nokia2630">
+                <list>
+                    <value>Nokia</value>
+                    <value>2630</value>
+                </list>
+            </device>
+        </builder>
+    </Builders>
+</ODDR>
