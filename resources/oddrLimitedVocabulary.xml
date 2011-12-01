@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
 <version>
-	<ver>1.0</ver>
-	<last_updated>2011-10-10 11:21:24</last_updated>
+        <ver>1.1</ver>
+        <last_updated>2011-12-01 11:49:45</last_updated>
 	<official_url>www.openddr.org</official_url>
 		<maintainers>
 		</maintainers>
@@ -35,7 +35,7 @@
 		<Property name="nokia_edition" datatype="xs:string" aspects="device" defaultAspect="device"/>
 		<Property name="nokia_series" datatype="xs:string" aspects="device" defaultAspect="device"/>
 		<Property name="dual_orientation" datatype="xs:string" aspects="device" defaultAspect="device"/>
-		<Property name="pointing_method" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="inputDevices" datatype="xs:string" aspects="device" defaultAspect="device"/>
 		<Property name="is_wireless_device" datatype="xs:string" aspects="device" defaultAspect="device"/>
 		<Property name="is_tablet" datatype="xs:string" aspects="device" defaultAspect="device"/>
 		<Property name="ajax_support_javascript" datatype="xs:string" aspects="device" defaultAspect="device"/>
